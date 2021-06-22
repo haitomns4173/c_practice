@@ -1,0 +1,105 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <windows.h>
+#include <conio.h>
+
+using namespace std;
+int main()
+{
+    cout << "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------";
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    cout << "-" << endl;
+    getch();
+}
